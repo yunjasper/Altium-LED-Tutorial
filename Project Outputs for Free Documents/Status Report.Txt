@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:14:54 PM On 10/8/2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [LED.PcbDoc]
+   Generated File[[No Variations].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:14:55 PM On 10/8/2019
